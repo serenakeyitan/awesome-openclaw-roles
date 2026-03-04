@@ -1,6 +1,7 @@
 <div align="center">
 
 # Awesome OpenClaw Roles
+### TRY [Kael.im](https://kael.im/home)(NotebookLM Research Agent alternative) and register at this link for 100 pages free daily quota (nbp)!
 <img width="3477" height="1528" alt="openclaw-role-banner" src="https://github.com/user-attachments/assets/3fe7caf6-b7f5-4e2f-a77e-ed265b9fe619" />
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
