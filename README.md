@@ -50,7 +50,7 @@ Existing awesome lists organize skills by technical category. This one organizes
 - **[Next.js Expert](https://clawhub.ai/wanng-ide/nextjs-expert)** - Next.js 14/15 best practices with App Router — avoid common pitfalls and anti-patterns.
 - **[Frontend Design](https://github.com/kesslerio/ultimate-frontend-design-openclaw-skill)** - Create production-grade static sites with React, Tailwind, and shadcn/ui.
 - **[Vercel](https://github.com/openclaw/skills/tree/main/skills/thesethrose/vercel/SKILL.md)** - Deploy, manage env vars, configure domains, and trigger releases via Vercel CLI.
-- **[Prepare PR](https://clawhub.ai/steipete/prepare-pr)** - Rebase onto main, fix lint issues, and run gate checks before opening a PR.
+- **[PR Review](https://clawhub.ai/steipete/pr-review)** - Find and fix code issues before publishing a PR — single-pass review with auto-fix.
 - **[Squash Merge](https://clawhub.ai/steipete/squash-merge)** - Deterministic squash merges with SHA pinning and strict required-check gating.
 - **[Linux Service Triage](https://github.com/openclaw/skills/tree/main/skills/kowl64/linux-service-triage/SKILL.md)** - Diagnose and fix Linux service issues through logs, systemd, and triage reports.
 - **[Playwright Scraper](https://clawhub.ai/waisimon/playwright-scraper-skill)** - Browser automation and web scraping with Playwright and anti-bot protection.
@@ -79,7 +79,7 @@ Existing awesome lists organize skills by technical category. This one organizes
 *Create, schedule, and manage social media content across every major platform.*
 
 - **[Auto-Redbook Skills](https://github.com/comeonzhj/Auto-Redbook-Skills)** 🇨🇳 - Auto-write Xiaohongshu posts, generate multi-themed cards, and auto-publish. ⭐803
-- **[Redbook Search & Comment MCP](https://github.com/chenningling/Redbook-Search-Comment-MCP2.0)** 🇨🇳 - Auto-search Xiaohongshu, scrape notes, and post AI-generated comments via Playwright. ⭐397
+- **[Xiaohongshu MCP](https://github.com/xpzouying/xiaohongshu-mcp)** 🇨🇳 - MCP server for Xiaohongshu — publish content, search, manage comments, and automate engagement. ⭐9.9k
 - **[Bird](https://clawhub.ai/steipete/bird)** - X/Twitter CLI for reading, searching, and posting via cookies or API.
 - **[Bluesky](https://github.com/openclaw/skills/tree/main/skills/jeffaf/bluesky/SKILL.md)** - Complete Bluesky CLI — post, reply, like, repost, follow, block, mute, and search.
 - **[Remotion Best Practices](https://github.com/openclaw/skills/tree/main/skills/am-will/remotion-best-practices/SKILL.md)** - Guidelines and patterns for building programmatic video with [Remotion](https://github.com/remotion-dev/remotion). ⭐38.5k
@@ -113,7 +113,7 @@ Existing awesome lists organize skills by technical category. This one organizes
 - **[LinkedIn MCP Server](https://github.com/stickerdaniel/linkedin-mcp-server)** - Scrape LinkedIn profiles, companies, and job posts for lead research and prospecting. ⭐965
 - **[Apollo](https://github.com/openclaw/skills/tree/main/skills/jhumanj/apollo/SKILL.md)** - Interact with Apollo.io for people and org enrichment, search, and list management.
 - **[Attio Enhanced](https://github.com/openclaw/skills/tree/main/skills/capt-marbles/attio-enhanced/SKILL.md)** - Enhanced Attio CRM API skill with batch operations for pipeline management.
-- **[Alibaba Supplier Outreach](https://github.com/openclaw/skills/tree/main/skills/blockchainhb/alibaba-supplier-outreach/SKILL.md)** - Find Alibaba suppliers, send optimized outreach messages, and track replies.
+- **[Alibaba Supplier Outreach](https://clawhub.ai/blockchainhb/alibaba-supplier-outreach)** - Find Alibaba suppliers, send optimized outreach messages, and track replies.
 - **[AgenticCreed Lead](https://github.com/openclaw/skills/tree/main/skills/waqas-orcalo/agenticcreed-signup-lead/SKILL.md)** - Capture and create signup leads in CRM systems via HTTP endpoints.
 - **[Data Enricher](https://github.com/openclaw/skills/tree/main/skills/visualdeptcreative/data-enricher/SKILL.md)** - Enrich prospect lists with verified email addresses and company data.
 - **[Bird DMs](https://github.com/openclaw/skills/tree/main/skills/tolibear/bird-dms/SKILL.md)** - Check and manage X/Twitter DMs for social selling and relationship building.
@@ -137,7 +137,7 @@ Existing awesome lists organize skills by technical category. This one organizes
 - **[IMAP/SMTP Email](https://clawhub.ai/gzlicanyi/imap-smtp-email)** - Send and receive emails via IMAP and SMTP with plain text, HTML, and file attachments.
 - **[Pocket Alert](https://clawhub.ai/Akellacom/pocketalert)** - Push notifications from OpenClaw directly to your iOS or Android phone.
 - **[Basecamp CLI](https://github.com/openclaw/skills/tree/main/skills/emredoganer/basecamp-cli/SKILL.md)** - Manage Basecamp projects, to-dos, and team communication via the API.
-- **[Beeper](https://github.com/openclaw/skills/tree/main/skills/krausefx/beeper/SKILL.md)** - Search and browse local Beeper chat history across all your messaging platforms.
+- **[Beeper](https://clawhub.ai/krausefx/beeper)** - Search and browse local Beeper chat history across all your messaging platforms.
 - **[Oracle CLI](https://github.com/steipete/oracle)** - Bundle prompts and files into high-context packages for complex operational tasks.
 
 ## 🔬 Research / Academic
