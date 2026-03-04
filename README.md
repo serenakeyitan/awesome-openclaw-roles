@@ -6,6 +6,8 @@ Existing awesome lists organize skills by technical category. This one organizes
 
 **Legend:** 🇨🇳 = China-market specific &nbsp;·&nbsp; ⭐ = GitHub star count
 
+> **Tip:** Click the **[Share this section]** link under any role or subsection to get a direct URL you can bookmark or send to your team.
+
 ---
 
 ## Contents
@@ -24,6 +26,8 @@ Existing awesome lists organize skills by technical category. This one organizes
 ## 🎯 Marketing / Growth
 
 *Your workflow: Research keywords and competitors → write SEO content → build landing pages → launch ad campaigns → discover and recruit KOLs/influencers → set up email sequences → track analytics and A/B test → iterate.*
+
+[Share this role](https://github.com/serenakeyitan/awesome-openclaw-roles#-marketing--growth) · [SEO](#keyword-research--seo) · [Landing Pages](#landing-pages--web-presence) · [Ads](#ad-campaigns--paid-media) · [Email](#email-marketing) · [KOL](#kol--influencer-discovery) · [Brand](#brand--analytics)
 
 ### Keyword Research & SEO
 
@@ -76,6 +80,8 @@ Existing awesome lists organize skills by technical category. This one organizes
 
 *Your workflow: Scaffold project → write code → manage database → run tests → review PRs → deploy via CI/CD → monitor in production → triage incidents.*
 
+[Share this role](https://github.com/serenakeyitan/awesome-openclaw-roles#%EF%B8%8F-engineering--dev) · [Scaffolding](#scaffolding--full-stack) · [Database](#database--orm) · [Git](#version-control--code-review) · [Testing](#testing--qa) · [CI/CD](#cicd--deployment) · [Containers](#containers--infrastructure) · [Security](#security--monitoring)
+
 ### Scaffolding & Full-Stack
 
 - **[Senior Fullstack](https://clawhub.ai/wanng-ide/senior-fullstack)** - Scaffold projects for Next.js, FastAPI, MERN, Django, and other major stacks.
@@ -120,6 +126,8 @@ Existing awesome lists organize skills by technical category. This one organizes
 
 *Your workflow: Ingest raw data (receipts, CSVs, APIs) → clean and transform → query with SQL → analyze trends → build dashboards and reports → forecast and budget → track payments.*
 
+[Share this role](https://github.com/serenakeyitan/awesome-openclaw-roles#-finance--analytics) · [Ingestion](#data-ingestion--processing) · [SQL](#sql--data-analysis) · [Markets](#stock-market--financial-data) · [Sheets](#spreadsheets--reporting) · [Budget](#budgeting--payments)
+
 ### Data Ingestion & Processing
 
 - **[Veryfi](https://clawhub.ai/veryfi/veryfi)** - Extract structured data from receipts, invoices, and bank statements with OCR and AI.
@@ -157,6 +165,8 @@ Existing awesome lists organize skills by technical category. This one organizes
 ## 📱 Social Media / Content
 
 *Your workflow: Research trends and competitors → write scripts and captions → produce images and video → schedule and publish across platforms → engage with audience → analyze performance → repurpose top content.*
+
+[Share this role](https://github.com/serenakeyitan/awesome-openclaw-roles#-social-media--content) · [Cross-Platform](#cross-platform) · [Twitter](#twitter--x) · [Instagram](#instagram) · [TikTok](#tiktok) · [YouTube](#youtube) · [Xiaohongshu](#xiaohongshu-) · [Other](#other-platforms) · [Production](#content-production)
 
 ### Cross-Platform
 
@@ -206,6 +216,8 @@ Existing awesome lists organize skills by technical category. This one organizes
 
 *Your workflow: Research users → sketch wireframes → design in Figma → audit UX and accessibility → hand off to engineering → build design system → iterate on feedback.*
 
+[Share this role](https://github.com/serenakeyitan/awesome-openclaw-roles#-product--design) · [Research](#user-research--strategy) · [Wireframing](#wireframing--prototyping) · [Figma](#figma-integration) · [UI/UX](#uiux-design--audit) · [a11y](#accessibility) · [Design System](#design-system--assets) · [Handoff](#design-to-code-handoff)
+
 ### User Research & Strategy
 
 - **[UX Researcher Designer](https://clawhub.ai/wanng-ide/ux-researcher-designer)** - Generate personas, journey maps, and research insights from user data.
@@ -250,6 +262,8 @@ Existing awesome lists organize skills by technical category. This one organizes
 
 *Your workflow: Research prospects → enrich lead data → craft personalized outreach → manage CRM pipeline → book meetings and calls → generate proposals → close deals → track attribution.*
 
+[Share this role](https://github.com/serenakeyitan/awesome-openclaw-roles#-sales--bd) · [Prospecting](#prospecting--lead-research) · [CRM](#crm--pipeline) · [Outreach](#outreach--email-sequences) · [Meetings](#meetings--calls) · [Proposals](#proposals--marketplace) · [Creators](#creator-monetization)
+
 ### Prospecting & Lead Research
 
 - **[LinkedIn MCP Server](https://github.com/stickerdaniel/linkedin-mcp-server)** - Scrape LinkedIn profiles, companies, and job posts for lead research and prospecting. ⭐965
@@ -289,6 +303,8 @@ Existing awesome lists organize skills by technical category. This one organizes
 ## 🏢 Operations / Admin
 
 *Your workflow: Triage email and messages → manage calendar and meetings → organize documents and notes → coordinate across tools → automate repetitive tasks → send notifications.*
+
+[Share this role](https://github.com/serenakeyitan/awesome-openclaw-roles#-operations--admin) · [Email](#email--messaging) · [Calendar](#calendar--scheduling) · [Meetings](#meeting-notes--transcription) · [Notes](#notes--knowledge) · [Projects](#project-management) · [Utilities](#utilities)
 
 ### Email & Messaging
 
@@ -330,6 +346,8 @@ Existing awesome lists organize skills by technical category. This one organizes
 ## 🔬 Research / Academic
 
 *Your workflow: Search literature → collect and cite papers → read and annotate → synthesize findings → write and format in LaTeX → run experiments → track results → publish.*
+
+[Share this role](https://github.com/serenakeyitan/awesome-openclaw-roles#-research--academic) · [Literature](#literature-search) · [Citations](#citation-management) · [Synthesis](#reading--synthesis) · [LaTeX](#writing--latex) · [News](#news--feeds) · [Experiments](#experiment-tracking)
 
 ### Literature Search
 
