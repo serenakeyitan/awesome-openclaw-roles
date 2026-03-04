@@ -29,7 +29,7 @@ Existing awesome lists organize skills by technical category. This one organizes
 
 Understand your market before spending a dollar — pull competitor data, monitor pricing, and mine communities for positioning insights.
 
-| Name | Description |
+| Name <img width="250" height="1"> | Description <img width="700" height="1"> |
 |------|-------------|
 | [Claude SEO](https://github.com/AgriciDaniel/claude-seo) | Comprehensive SEO analysis with keyword research, technical audits, Core Web Vitals, E-E-A-T evaluation, and competitor analysis. ⭐1.5k |
 | [Tavily](https://clawhub.ai/bert-builder/tavily) | AI-optimized web search with clean structured results, answer generation, and source extraction. |
@@ -38,7 +38,7 @@ Understand your market before spending a dollar — pull competitor data, monito
 
 Write content that ranks — generate SEO-optimized articles, manage blog platforms, and target the right keywords.
 
-| Name | Description |
+| Name <img width="250" height="1"> | Description <img width="700" height="1"> |
 |------|-------------|
 | [Blog Writer](https://github.com/openclaw/skills/tree/main/skills/tomstools11/blog-writer/SKILL.md) | Write SEO-optimized blog posts and articles with structured outlines and keyword targeting. |
 
@@ -46,7 +46,7 @@ Write content that ranks — generate SEO-optimized articles, manage blog platfo
 
 Build, deploy, and iterate on marketing pages without waiting on engineering.
 
-| Name | Description |
+| Name <img width="250" height="1"> | Description <img width="700" height="1"> |
 |------|-------------|
 | [Frontend Design](https://github.com/kesslerio/ultimate-frontend-design-openclaw-skill) | Create production-grade static sites with React, Tailwind, and shadcn/ui — perfect for marketing pages. |
 | [Runbox Website Builder](https://github.com/11cafe/website-publisher-mcp) | AI-powered website builder that deploys HTML/CSS/JS as live public URLs with real-time editing. ⭐16 |
@@ -55,7 +55,7 @@ Build, deploy, and iterate on marketing pages without waiting on engineering.
 
 Launch, audit, and optimize paid campaigns across every major ad platform — then A/B test everything.
 
-| Name | Description |
+| Name <img width="250" height="1"> | Description <img width="700" height="1"> |
 |------|-------------|
 | [AdWhiz](https://clawhub.ai/wanng-ide/adwhiz) | Manage Google Ads and Meta campaigns with 99 MCP tools for bidding, targeting, and reporting. |
 | [Claude Ads](https://github.com/AgriciDaniel/claude-ads) | Comprehensive paid advertising audit with 190+ checks across Google, Meta, YouTube, LinkedIn, TikTok, and Microsoft Ads. ⭐607 |
@@ -66,7 +66,7 @@ Launch, audit, and optimize paid campaigns across every major ad platform — th
 
 Build drip campaigns, manage subscriber lists, and automate lifecycle emails at scale.
 
-| Name | Description |
+| Name <img width="250" height="1"> | Description <img width="700" height="1"> |
 |------|-------------|
 | [Resend MCP](https://github.com/resend/mcp-send-email) | Official Resend MCP for sending emails, managing contacts, broadcasts, and scheduling. ⭐454 |
 | [Brevo](https://github.com/openclaw/skills/tree/main/skills/yujesyoga/brevo/SKILL.md) | Brevo (Sendinblue) email marketing API for managing contacts, lists, and automated campaigns. |
@@ -75,7 +75,7 @@ Build drip campaigns, manage subscriber lists, and automate lifecycle emails at 
 
 Find the right creators — scrape profiles, analyze engagement, compare sentiment, and build shortlists across platforms.
 
-| Name | Description |
+| Name <img width="250" height="1"> | Description <img width="700" height="1"> |
 |------|-------------|
 | [TikTok API](https://github.com/davidteather/TikTok-Api) | Free Python TikTok API — pull creator profiles, trending videos, follower counts, and engagement metrics. ⭐6.1k |
 | [Instaloader](https://github.com/instaloader/instaloader) | Free Instagram scraper — download profiles, posts, stories, and metadata for creator research. No API key needed. ⭐11.7k |
@@ -88,7 +88,7 @@ Find the right creators — scrape profiles, analyze engagement, compare sentime
 
 Define your brand voice, track how AI models reference you, and measure what's working across channels.
 
-| Name | Description |
+| Name <img width="250" height="1"> | Description <img width="700" height="1"> |
 |------|-------------|
 | [Brand Voice Profile](https://github.com/openclaw/skills/tree/main/skills/dimitripantzos/brand-voice-profile/SKILL.md) | Define and store your brand voice profile for consistent content generation across channels. |
 | [BotSee](https://github.com/openclaw/skills/tree/main/skills/grahac/botsee/SKILL.md) | Monitor your brand's AI visibility — track how LLMs reference you vs. competitors. |
@@ -105,7 +105,7 @@ Define your brand voice, track how AI models reference you, and measure what's w
 
 Go from zero to running app — scaffold projects across major frameworks with best-practice boilerplate.
 
-| Name | Description |
+| Name <img width="250" height="1"> | Description <img width="700" height="1"> |
 |------|-------------|
 | [Senior Fullstack](https://clawhub.ai/wanng-ide/senior-fullstack) | Scaffold projects for Next.js, FastAPI, MERN, Django, and other major stacks. |
 | [Next.js Expert](https://clawhub.ai/wanng-ide/nextjs-expert) | Next.js 14/15 best practices with App Router — avoid common pitfalls and anti-patterns. |
@@ -116,7 +116,7 @@ Go from zero to running app — scaffold projects across major frameworks with b
 
 Connect, query, migrate, and manage databases without leaving your AI assistant.
 
-| Name | Description |
+| Name <img width="250" height="1"> | Description <img width="700" height="1"> |
 |------|-------------|
 | [DBHub](https://github.com/bytebase/dbhub) | Zero-dependency, token-efficient database gateway for Postgres, MySQL, SQL Server, MariaDB, and SQLite. ⭐2.2k |
 | [Prisma MCP](https://github.com/prisma/mcp) | Official Prisma MCP for migrations, Prisma Postgres management, SQL execution, and schema introspection. ⭐39 |
@@ -126,7 +126,7 @@ Connect, query, migrate, and manage databases without leaving your AI assistant.
 
 Manage repos, review PRs, and merge with confidence — all from the command line.
 
-| Name | Description |
+| Name <img width="250" height="1"> | Description <img width="700" height="1"> |
 |------|-------------|
 | [GitHub](https://github.com/openclaw/skills/tree/main/skills/steipete/github/SKILL.md) | Manage issues, PRs, CI workflows, and repo operations via the `gh` CLI. |
 | [PR Review](https://clawhub.ai/steipete/pr-review) | Find and fix code issues before publishing a PR — single-pass review with auto-fix. |
@@ -136,7 +136,7 @@ Manage repos, review PRs, and merge with confidence — all from the command lin
 
 Run tests across languages and frameworks, and automate browser-based QA.
 
-| Name | Description |
+| Name <img width="250" height="1"> | Description <img width="700" height="1"> |
 |------|-------------|
 | [MCP Test Runner](https://github.com/privsim/mcp-test-runner) | Unified test runner across Jest, Pytest, Go, Rust, Flutter, and Bats via MCP. ⭐15 |
 | [Playwright Scraper](https://clawhub.ai/waisimon/playwright-scraper-skill) | Browser automation and web scraping with Playwright and anti-bot protection. |
@@ -145,7 +145,7 @@ Run tests across languages and frameworks, and automate browser-based QA.
 
 Build pipelines, deploy to production, and manage releases across hosting platforms.
 
-| Name | Description |
+| Name <img width="250" height="1"> | Description <img width="700" height="1"> |
 |------|-------------|
 | [CI/CD Pipeline](https://github.com/openclaw/skills/tree/main/skills/gitgoodordietrying/cicd-pipeline/SKILL.md) | Create, debug, and manage CI/CD pipelines with GitHub Actions. |
 | [Vercel](https://github.com/openclaw/skills/tree/main/skills/thesethrose/vercel/SKILL.md) | Deploy, manage env vars, configure domains, and trigger releases via Vercel CLI. |
@@ -154,7 +154,7 @@ Build pipelines, deploy to production, and manage releases across hosting platfo
 
 Manage Kubernetes clusters, diagnose Linux services, and keep infrastructure healthy.
 
-| Name | Description |
+| Name <img width="250" height="1"> | Description <img width="700" height="1"> |
 |------|-------------|
 | [Kubernetes](https://github.com/openclaw/skills/tree/main/skills/kcns008/kubernetes/SKILL.md) | Comprehensive K8s and OpenShift management — operations, troubleshooting, manifests, security, and GitOps. |
 | [Linux Service Triage](https://github.com/openclaw/skills/tree/main/skills/kowl64/linux-service-triage/SKILL.md) | Diagnose and fix Linux service issues through logs, systemd, and triage reports. |
@@ -163,7 +163,7 @@ Manage Kubernetes clusters, diagnose Linux services, and keep infrastructure hea
 
 Scan for vulnerabilities, audit skills before install, and orchestrate multi-agent incident response.
 
-| Name | Description |
+| Name <img width="250" height="1"> | Description <img width="700" height="1"> |
 |------|-------------|
 | [Heimdall](https://github.com/openclaw/skills/tree/main/skills/henrino3/heimdall/SKILL.md) | Pre-install security scanner for OpenClaw skills — detects credential theft and data exfiltration. |
 | [Agent Commons](https://github.com/openclaw/skills/tree/main/skills/zanblayde/agent-commons/SKILL.md) | Consult, commit, extend, and challenge shared reasoning chains across agent teams. |
@@ -173,7 +173,7 @@ Scan for vulnerabilities, audit skills before install, and orchestrate multi-age
 
 Translate apps, manage locale files, and ship multi-language products without manual string wrangling.
 
-| Name | Description |
+| Name <img width="250" height="1"> | Description <img width="700" height="1"> |
 |------|-------------|
 | [Lingo.dev](https://github.com/lingodotdev/lingo.dev) | Open-source, AI-powered i18n toolkit — MCP gives AI assistants structured access to framework-specific localization workflows. ⭐5.3k |
 | [Tolgee](https://github.com/tolgee/tolgee-platform) | Developer & translator friendly localization platform with MCP server for managing translations directly from AI assistants. ⭐3.8k |
@@ -186,7 +186,7 @@ Translate apps, manage locale files, and ship multi-language products without ma
 
 Get messy data into structured formats — OCR receipts, parse invoices, transform CSVs, and track lineage.
 
-| Name | Description |
+| Name <img width="250" height="1"> | Description <img width="700" height="1"> |
 |------|-------------|
 | [Veryfi](https://clawhub.ai/veryfi/veryfi) | Extract structured data from receipts, invoices, and bank statements with OCR and AI. |
 | [DocStrange](https://clawhub.ai/shhdwi/docstrange) | Convert PDFs, invoices, and documents to structured markdown, JSON, or CSV. |
@@ -197,7 +197,7 @@ Get messy data into structured formats — OCR receipts, parse invoices, transfo
 
 Query databases, visualize trends, and enrich datasets — fast analysis on local or remote data.
 
-| Name | Description |
+| Name <img width="250" height="1"> | Description <img width="700" height="1"> |
 |------|-------------|
 | [DuckDB CLI](https://github.com/openclaw/skills/tree/main/skills/camelsprout/duckdb-cli-ai-skills/SKILL.md) | DuckDB specialist for fast SQL analysis and data processing on local files. |
 | [Data Analyst](https://github.com/openclaw/skills/tree/main/skills/oyi77/data-analyst/SKILL.md) | Data visualization, report generation, SQL queries, and spreadsheet automation. |
@@ -207,17 +207,18 @@ Query databases, visualize trends, and enrich datasets — fast analysis on loca
 
 Pull real-time quotes, run technical analysis, score stocks, and track portfolios.
 
-| Name | Description |
+| Name <img width="250" height="1"> | Description <img width="700" height="1"> |
 |------|-------------|
 | [Financial Modeling Prep MCP](https://github.com/imbenrabi/Financial-Modeling-Prep-MCP-Server) | 253+ financial tools — real-time quotes, technical indicators, analyst estimates, and ESG scores. Free tier: 250 calls/day. ⭐122 |
 | [Stock Market Pro](https://clawhub.ai/kys42/stock-market-pro) | Yahoo Finance powered stock analysis with quotes, fundamentals, ASCII trends, and high-resolution charts. |
 | [Stock Analysis](https://clawhub.ai/udiedrichsen/stock-analysis) | Analyze stocks and crypto — portfolio management, watchlists, dividend analysis, and 8-dimension scoring. |
+| [PolyClaw](https://github.com/chainstacklabs/polyclaw) | Trading-enabled Polymarket skill — browse prediction markets, execute on-chain trades, and discover hedging opportunities. ⭐158 |
 
 ### Dashboards & Reporting
 
 Generate daily reports, track KPIs, monitor store metrics, and automate product analytics.
 
-| Name | Description |
+| Name <img width="250" height="1"> | Description <img width="700" height="1"> |
 |------|-------------|
 | [Daily Report](https://github.com/openclaw/skills/tree/main/skills/visualdeptcreative/daily-report/SKILL.md) | Track progress, report KPIs, and generate daily business metric summaries. |
 | [Amplitude Automation](https://github.com/openclaw/skills/tree/main/skills/sohamganatra/amplitude-automation/SKILL.md) | Automate Amplitude product analytics — event tracking, funnels, and cohort reports. |
@@ -227,7 +228,7 @@ Generate daily reports, track KPIs, monitor store metrics, and automate product 
 
 Manage budgets, process payments, handle invoicing, and track financial data from central banks.
 
-| Name | Description |
+| Name <img width="250" height="1"> | Description <img width="700" height="1"> |
 |------|-------------|
 | [Actual Budget](https://clawhub.ai/ThisIsJeron/actual-budget) | Manage personal finances via Actual Budget API — budgets, transactions, accounts, rules, and bank sync. |
 | [Stripe MCP](https://docs.stripe.com/mcp) | Official Stripe MCP with 30+ tools for customers, payment intents, invoicing, subscriptions, and disputes. |
@@ -240,7 +241,7 @@ Manage budgets, process payments, handle invoicing, and track financial data fro
 
 Publish once, distribute everywhere — schedule posts across 28+ channels from a single workflow.
 
-| Name | Description |
+| Name <img width="250" height="1"> | Description <img width="700" height="1"> |
 |------|-------------|
 | [Postiz](https://clawhub.ai/nevo-david/postiz) | Schedule and publish to 28+ channels — X, Instagram, TikTok, YouTube, LinkedIn, Threads, Facebook, Reddit, and more. ⭐27k |
 
@@ -248,7 +249,7 @@ Publish once, distribute everywhere — schedule posts across 28+ channels from 
 
 Read timelines, search tweets, post threads, and track follower events.
 
-| Name | Description |
+| Name <img width="250" height="1"> | Description <img width="700" height="1"> |
 |------|-------------|
 | [Bird](https://clawhub.ai/steipete/bird) | X/Twitter CLI for reading, searching, posting, and timeline management via cookies or API. |
 | [OpenTwitter MCP](https://github.com/6551Team/opentwitter-mcp) | User profiles, tweet search, follower events, and KOL tracking with 8 tools via FastMCP. ⭐351 |
@@ -257,7 +258,7 @@ Read timelines, search tweets, post threads, and track follower events.
 
 View feeds, publish media, pull insights, and manage DMs.
 
-| Name | Description |
+| Name <img width="250" height="1"> | Description <img width="700" height="1"> |
 |------|-------------|
 | [Gram](https://clawhub.ai/arein/gram) | Instagram CLI for viewing feeds, posts, profiles, and engagement via cookies. |
 | [Instagram MCP](https://github.com/jlbadano/ig-mcp) | Publish media, view post insights, manage DMs, and pull profile analytics. ⭐56 |
@@ -266,7 +267,7 @@ View feeds, publish media, pull insights, and manage DMs.
 
 Research competitors, generate slideshows, and pull post details and subtitles.
 
-| Name | Description |
+| Name <img width="250" height="1"> | Description <img width="700" height="1"> |
 |------|-------------|
 | [Larry](https://clawhub.ai/OllieWazza/larry) | TikTok slideshow marketing — research competitors, generate AI images, add text overlays, post via Postiz, and track analytics. |
 | [TikTok MCP](https://github.com/Seym0n/tiktok-mcp) | Get subtitles, post details, and video search via TikNeuron API. ⭐57 |
@@ -275,7 +276,7 @@ Research competitors, generate slideshows, and pull post details and subtitles.
 
 Generate full videos, manage channels, download transcripts, and pull content from 1000+ sites.
 
-| Name | Description |
+| Name <img width="250" height="1"> | Description <img width="700" height="1"> |
 |------|-------------|
 | [YouTube Factory](https://clawhub.ai/Mayank8290/youtube-factory) | Generate complete YouTube videos from a single prompt — script, voiceover, stock footage, captions, and thumbnail. |
 | [YouTube API](https://clawhub.ai/byungkyu/youtube-api-skill) | Search videos, manage playlists, pull channel data, and moderate comments via YouTube Data API with managed OAuth. |
@@ -285,14 +286,14 @@ Generate full videos, manage channels, download transcripts, and pull content fr
 
 Publish posts, generate themed cards, manage comments, and automate engagement on China's top lifestyle platform.
 
-| Name | Description |
+| Name <img width="250" height="1"> | Description <img width="700" height="1"> |
 |------|-------------|
 | [Xiaohongshu MCP](https://github.com/xpzouying/xiaohongshu-mcp) 🇨🇳 | MCP server for Xiaohongshu — publish content, search, manage comments, and automate engagement. ⭐9.9k |
 | [Auto-Redbook Skills](https://github.com/comeonzhj/Auto-Redbook-Skills) 🇨🇳 | Auto-write Xiaohongshu posts, generate multi-themed cards, and auto-publish. ⭐803 |
 
 ### Other Platforms
 
-| Name | Description |
+| Name <img width="250" height="1"> | Description <img width="700" height="1"> |
 |------|-------------|
 | [Bluesky](https://github.com/openclaw/skills/tree/main/skills/jeffaf/bluesky/SKILL.md) | Complete Bluesky CLI — post, reply, like, repost, follow, block, mute, and search. |
 
@@ -300,7 +301,7 @@ Publish posts, generate themed cards, manage comments, and automate engagement o
 
 Generate images, edit video programmatically, build animated content, and transcribe audio for subtitles.
 
-| Name | Description |
+| Name <img width="250" height="1"> | Description <img width="700" height="1"> |
 |------|-------------|
 | [Gemini Image Gen](https://clawhub.ai/steipete/nano-banana-pro) | Generate and edit images with Google Gemini 3 Pro at 1K-4K resolution for social media visuals. |
 | [OpenAI Image Gen](https://clawhub.ai/steipete/openai-image-gen) | Batch image generation via OpenAI Images API for thumbnails, banners, and post graphics. |
@@ -316,7 +317,7 @@ Generate images, edit video programmatically, build animated content, and transc
 
 Generate personas, map user journeys, resolve design trade-offs, and define brand identity from research data.
 
-| Name | Description |
+| Name <img width="250" height="1"> | Description <img width="700" height="1"> |
 |------|-------------|
 | [UX Researcher Designer](https://clawhub.ai/wanng-ide/ux-researcher-designer) | Generate personas, journey maps, and research insights from user data. |
 | [UX Decisions](https://clawhub.ai/wanng-ide/ux-decisions) | Structured UX decision framework for resolving design trade-offs with rationale. |
@@ -327,7 +328,7 @@ Generate personas, map user journeys, resolve design trade-offs, and define bran
 
 Sketch ideas fast — hand-drawn diagrams, wireframes, and low-fidelity flows before committing to high-fidelity design.
 
-| Name | Description |
+| Name <img width="250" height="1"> | Description <img width="700" height="1"> |
 |------|-------------|
 | [Excalidraw MCP](https://github.com/excalidraw/excalidraw-mcp) | Fast streamable whiteboard MCP for sketching hand-drawn diagrams and wireframes. ⭐2.9k |
 
@@ -335,7 +336,7 @@ Sketch ideas fast — hand-drawn diagrams, wireframes, and low-fidelity flows be
 
 Pull design data into code, modify Figma files programmatically, and bridge the design-development gap.
 
-| Name | Description |
+| Name <img width="250" height="1"> | Description <img width="700" height="1"> |
 |------|-------------|
 | [Figma Context MCP](https://github.com/GLips/Figma-Context-MCP) | Provides Figma layout data to AI coding agents for accurate one-shot design-to-code implementation. ⭐13.4k |
 | [TalkToFigma](https://github.com/grab/cursor-talk-to-figma-mcp) | Read Figma designs and modify them programmatically through AI agents. ⭐6.4k |
@@ -345,7 +346,7 @@ Pull design data into code, modify Figma files programmatically, and bridge the 
 
 Get design guidance, run automated UX and UI audits, and surface usability issues before users find them.
 
-| Name | Description |
+| Name <img width="250" height="1"> | Description <img width="700" height="1"> |
 |------|-------------|
 | [UI/UX Pro Max](https://clawhub.ai/wanng-ide/ui-ux-pro-max) | Comprehensive UI/UX design guidance and frontend-ready specifications. |
 | [UX Audit](https://clawhub.ai/wanng-ide/ux-audit) | Automated UX audits that surface usability issues and improvement opportunities. |
@@ -355,7 +356,7 @@ Get design guidance, run automated UX and UI audits, and surface usability issue
 
 Test WCAG compliance and catch a11y issues before they ship.
 
-| Name | Description |
+| Name <img width="250" height="1"> | Description <img width="700" height="1"> |
 |------|-------------|
 | [a11y MCP](https://github.com/ronantakizawa/a11ymcp) | Web accessibility testing using axe-core with WCAG compliance reporting. ⭐78 |
 
@@ -363,7 +364,7 @@ Test WCAG compliance and catch a11y issues before they ship.
 
 Maintain tokens, component docs, and visual assets — keep every screen consistent.
 
-| Name | Description |
+| Name <img width="250" height="1"> | Description <img width="700" height="1"> |
 |------|-------------|
 | [UI Design System](https://clawhub.ai/wanng-ide/ui-design-system) | Design tokens, component documentation, and system-wide consistency guidance. |
 | [Design Assets](https://github.com/openclaw/skills/tree/main/skills/cmanfre7/design-assets/SKILL.md) | Create and edit graphic design assets — icons, favicons, and social media images. |
@@ -376,7 +377,7 @@ Maintain tokens, component docs, and visual assets — keep every screen consist
 
 Find decision-makers, scrape profiles, enrich company data, and build targeted prospect lists.
 
-| Name | Description |
+| Name <img width="250" height="1"> | Description <img width="700" height="1"> |
 |------|-------------|
 | [LinkedIn MCP Server](https://github.com/stickerdaniel/linkedin-mcp-server) | Scrape LinkedIn profiles, companies, and job posts for lead research and prospecting. ⭐965 |
 | [Apollo](https://github.com/openclaw/skills/tree/main/skills/jhumanj/apollo/SKILL.md) | Interact with Apollo.io for people and org enrichment, search, and list management. |
@@ -387,7 +388,7 @@ Find decision-makers, scrape profiles, enrich company data, and build targeted p
 
 Keep your pipeline moving — manage contacts, track deals, and automate CRM workflows across major platforms.
 
-| Name | Description |
+| Name <img width="250" height="1"> | Description <img width="700" height="1"> |
 |------|-------------|
 | [HubSpot MCP](https://github.com/peakmojo/mcp-hubspot) | AI-powered HubSpot CRM with vector storage, caching, contact/company management, and activity tracking. ⭐116 |
 | [Salesforce MCP](https://github.com/tsmztech/mcp-server-salesforce) | Natural language Salesforce integration — SOQL/SOSL queries, object management, and Apex code execution. ⭐129 |
@@ -398,7 +399,7 @@ Keep your pipeline moving — manage contacts, track deals, and automate CRM wor
 
 Generate personalized cold emails, manage DM-based selling, and automate follow-up sequences.
 
-| Name | Description |
+| Name <img width="250" height="1"> | Description <img width="700" height="1"> |
 |------|-------------|
 | [Cold Email](https://clawhub.ai/bluecraft-ai/cold-email) | Generate hyper-personalized cold email sequences — turn lead data into high-converting outreach campaigns. |
 | [Resend MCP](https://github.com/resend/mcp-send-email) | Official Resend MCP for sending emails, managing contacts, and scheduling broadcasts. ⭐454 |
@@ -408,7 +409,7 @@ Generate personalized cold emails, manage DM-based selling, and automate follow-
 
 Book meetings, transcribe calls, and capture action items automatically.
 
-| Name | Description |
+| Name <img width="250" height="1"> | Description <img width="700" height="1"> |
 |------|-------------|
 | [BookAMeeting](https://clawhub.ai/yzlee/bookameeting) | Connect to scheduling APIs to book meetings directly from AI conversations. |
 | [Whisper Transcription MCP](https://github.com/arcaputo3/mcp-server-whisper) | OpenAI Whisper audio transcription with timestamps, speaker templates, and text-to-speech. ⭐45 |
@@ -417,7 +418,7 @@ Book meetings, transcribe calls, and capture action items automatically.
 
 Source suppliers, manage marketplace listings, and generate proposals for partnership deals.
 
-| Name | Description |
+| Name <img width="250" height="1"> | Description <img width="700" height="1"> |
 |------|-------------|
 | [Alibaba Supplier Outreach](https://clawhub.ai/blockchainhb/alibaba-supplier-outreach) | Find Alibaba suppliers, send optimized outreach messages, and track replies. |
 | [Avito](https://github.com/openclaw/skills/tree/main/skills/ruslanlanket/avito/SKILL.md) | Manage Avito.ru marketplace account, product listings, and buyer messaging. |
@@ -427,7 +428,7 @@ Source suppliers, manage marketplace listings, and generate proposals for partne
 
 Automate fan platform management, schedule content, and optimize subscriber revenue.
 
-| Name | Description |
+| Name <img width="250" height="1"> | Description <img width="700" height="1"> |
 |------|-------------|
 | [BottyFans](https://clawhub.ai/cartoonitunes/bottyfans) | Autonomous creator monetization agent for managing fan platforms and revenue. |
 | [Fanvue](https://clawhub.ai/cartoonitunes/fanvue) | Creator platform management — automate content scheduling and subscriber engagement. |
@@ -440,7 +441,7 @@ Automate fan platform management, schedule content, and optimize subscriber reve
 
 Triage inboxes, send and receive across providers, and manage team chat — all from one place.
 
-| Name | Description |
+| Name <img width="250" height="1"> | Description <img width="700" height="1"> |
 |------|-------------|
 | [GOG](https://clawhub.ai/steipete/gog) | Google Workspace CLI for Gmail, Calendar, Drive, Contacts, Sheets, and Docs. |
 | [Apple Mail Search](https://github.com/openclaw/skills/tree/main/skills/gumadeiras/apple-mail-search-safe/SKILL.md) | Fast and safe Apple Mail search with full body content access. |
@@ -452,7 +453,7 @@ Triage inboxes, send and receive across providers, and manage team chat — all 
 
 Smart scheduling across accounts, reminders, and meeting booking — never double-book again.
 
-| Name | Description |
+| Name <img width="250" height="1"> | Description <img width="700" height="1"> |
 |------|-------------|
 | [Google Calendar MCP](https://github.com/nspady/google-calendar-mcp) | Google Calendar with multi-account support, smart scheduling, recurring events, and intelligent import from images/PDFs. ⭐1k |
 | [Apple Reminders](https://github.com/openclaw/skills/tree/main/skills/steipete/apple-reminders/SKILL.md) | Manage Apple Reminders via the `remindctl` CLI — create, complete, and organize tasks. |
@@ -462,7 +463,7 @@ Smart scheduling across accounts, reminders, and meeting booking — never doubl
 
 Record, transcribe, search, and summarize meetings — never lose an action item.
 
-| Name | Description |
+| Name <img width="250" height="1"> | Description <img width="700" height="1"> |
 |------|-------------|
 | [Fireflies MCP](https://github.com/Props-Labs/fireflies-mcp) | MCP server for Fireflies.ai — transcript retrieval, search, and summary generation. |
 | [Whisper Transcription MCP](https://github.com/arcaputo3/mcp-server-whisper) | OpenAI Whisper audio transcription with timestamps, speaker templates, and TTS. ⭐45 |
@@ -471,7 +472,7 @@ Record, transcribe, search, and summarize meetings — never lose an action item
 
 Organize documents, search knowledge bases, and keep team wikis up to date across Notion, Obsidian, and Feishu.
 
-| Name | Description |
+| Name <img width="250" height="1"> | Description <img width="700" height="1"> |
 |------|-------------|
 | [Notion MCP](https://github.com/makenotion/notion-mcp-server) | Official Notion MCP with 22 tools for reading pages, querying databases, and managing workspace content. ⭐4k |
 | [Obsidian](https://clawhub.ai/steipete/obsidian) | Interact with your Obsidian vault to organize, search, and manage notes. |
@@ -481,7 +482,7 @@ Organize documents, search knowledge bases, and keep team wikis up to date acros
 
 Track issues, manage sprints, coordinate across Jira/Linear/Basecamp, and keep everyone aligned.
 
-| Name | Description |
+| Name <img width="250" height="1"> | Description <img width="700" height="1"> |
 |------|-------------|
 | [Atlassian MCP](https://github.com/atlassian/atlassian-mcp-server) | Official Atlassian MCP for Jira, Confluence, and Compass with OAuth 2.1 authentication. ⭐370 |
 | [Linear](https://clawhub.ai/ManuelHettich/linear) | Query and manage Linear issues, projects, and team workflows. |
@@ -491,7 +492,7 @@ Track issues, manage sprints, coordinate across Jira/Linear/Basecamp, and keep e
 
 Push alerts to your phone and automate the small stuff that adds up.
 
-| Name | Description |
+| Name <img width="250" height="1"> | Description <img width="700" height="1"> |
 |------|-------------|
 | [Pocket Alert](https://clawhub.ai/Akellacom/pocketalert) | Push notifications from OpenClaw directly to your iOS or Android phone. |
 
@@ -503,7 +504,7 @@ Push alerts to your phone and automate the small stuff that adds up.
 
 Search across arXiv, PubMed, Semantic Scholar, and the open web — find relevant papers fast.
 
-| Name | Description |
+| Name <img width="250" height="1"> | Description <img width="700" height="1"> |
 |------|-------------|
 | [arXiv MCP](https://github.com/blazickjp/arxiv-mcp-server) | Bridge between AI assistants and arXiv — search, download, list, and read papers programmatically. ⭐2.3k |
 | [Paper Search MCP](https://github.com/openags/paper-search-mcp) | Search and download from arXiv, PubMed, bioRxiv, medRxiv, Google Scholar, and Semantic Scholar. ⭐728 |
@@ -514,7 +515,7 @@ Search across arXiv, PubMed, Semantic Scholar, and the open web — find relevan
 
 Organize your library, extract annotations, generate BibTeX, and maintain rigorous citation standards.
 
-| Name | Description |
+| Name <img width="250" height="1"> | Description <img width="700" height="1"> |
 |------|-------------|
 | [Zotero MCP](https://github.com/54yyyu/zotero-mcp) | Connect your Zotero library with AI — vector-based similarity search, PDF annotation extraction, and BibTeX export. ⭐1.6k |
 | [Academic Deep Research](https://clawhub.ai/kesslerio/academic-deep-research) | Transparent, rigorous research with mandated 2-cycle methodology, APA 7th citations, and evidence hierarchy. |
@@ -523,7 +524,7 @@ Organize your library, extract annotations, generate BibTeX, and maintain rigoro
 
 Go from papers to insights — summarize, build knowledge graphs, run deep research, and curate feeds.
 
-| Name | Description |
+| Name <img width="250" height="1"> | Description <img width="700" height="1"> |
 |------|-------------|
 | [Agent Deep Research](https://github.com/24601/agent-deep-research) | Autonomous deep research powered by Google Gemini — multi-step investigation with citations. |
 | [Summarize](https://clawhub.ai/wanng-ide/summarize) | Turn long content into clear, structured summaries — articles, papers, meeting notes. |
@@ -534,7 +535,7 @@ Go from papers to insights — summarize, build knowledge graphs, run deep resea
 
 Format publication-ready documents with templates, scripts, and reference guides.
 
-| Name | Description |
+| Name <img width="250" height="1"> | Description <img width="700" height="1"> |
 |------|-------------|
 | [LaTeX Document Skill](https://github.com/ndpvt-web/latex-document-skill) | Universal LaTeX skill with 27 templates, 22 scripts, and 22 reference guides for publication-ready documents. ⭐99 |
 
@@ -542,7 +543,7 @@ Format publication-ready documents with templates, scripts, and reference guides
 
 Stay current — aggregate tech news, triage RSS feeds, and surface what matters to your research.
 
-| Name | Description |
+| Name <img width="250" height="1"> | Description <img width="700" height="1"> |
 |------|-------------|
 | [TechNews](https://clawhub.ai/wanng-ide/technews) | Fetch top TechMeme stories with social reactions and linked article summaries. |
 | [Miniflux News](https://clawhub.ai/hartlco/miniflux-news) | Triage unread RSS and news entries from your Miniflux instance by topic relevance. |
@@ -551,7 +552,7 @@ Stay current — aggregate tech news, triage RSS feeds, and surface what matters
 
 Log runs, manage GPU instances, build visual pipelines, and analyze results with natural language.
 
-| Name | Description |
+| Name <img width="250" height="1"> | Description <img width="700" height="1"> |
 |------|-------------|
 | [W&B MCP](https://github.com/wandb/wandb-mcp-server) | Official Weights & Biases MCP — query and analyze experiment data using natural language. ⭐36 |
 
