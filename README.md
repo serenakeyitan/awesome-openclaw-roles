@@ -32,7 +32,6 @@ Existing awesome lists organize skills by technical category. This one organizes
 ### Keyword Research & SEO
 
 - **[Claude SEO](https://github.com/AgriciDaniel/claude-seo)** - Comprehensive SEO analysis with keyword research, technical audits, Core Web Vitals, E-E-A-T evaluation, and competitor analysis. ⭐1.5k
-- **[DataForSEO MCP](https://github.com/dataforseo/mcp-server-typescript)** - Complete SEO toolkit — keyword research, SERP analysis, backlinks, on-page crawling, and domain analytics via 9 API modules. ⭐151
 - **[Blog Writer](https://github.com/openclaw/skills/tree/main/skills/tomstools11/blog-writer/SKILL.md)** - Write SEO-optimized blog posts and articles with structured outlines and keyword targeting.
 - **[BearBlog](https://github.com/openclaw/skills/tree/main/skills/azade-c/bearblog/SKILL.md)** - Create and manage blog posts on Bear Blog for lightweight content publishing.
 
@@ -143,8 +142,7 @@ Existing awesome lists organize skills by technical category. This one organizes
 
 ### Stock Market & Financial Data
 
-- **[Financial Datasets MCP](https://github.com/financial-datasets/mcp-server)** - Income statements, balance sheets, cash flow, stock prices, and crypto data via MCP. ⭐1.5k
-- **[Financial Modeling Prep MCP](https://github.com/imbenrabi/Financial-Modeling-Prep-MCP-Server)** - 253+ financial tools covering real-time quotes, technical indicators, analyst estimates, ESG scores, and insider trading. ⭐122
+- **[Financial Modeling Prep MCP](https://github.com/imbenrabi/Financial-Modeling-Prep-MCP-Server)** - 253+ financial tools — real-time quotes, technical indicators, analyst estimates, and ESG scores. Free tier: 250 calls/day. ⭐122
 - **[Stock Market Pro](https://clawhub.ai/kys42/stock-market-pro)** - Yahoo Finance powered stock analysis with quotes, fundamentals, ASCII trends, and high-resolution charts.
 - **[Stock Analysis](https://clawhub.ai/udiedrichsen/stock-analysis)** - Analyze stocks and crypto — portfolio management, watchlists, dividend analysis, and 8-dimension scoring.
 
@@ -286,7 +284,6 @@ Existing awesome lists organize skills by technical category. This one organizes
 ### Meetings & Calls
 
 - **[BookAMeeting](https://clawhub.ai/yzlee/bookameeting)** - Connect to scheduling APIs to book meetings directly from AI conversations.
-- **[Phone Caller](https://clawhub.ai/omerflo/phone-caller)** - AI-powered outbound phone calls with voice synthesis — returns transcript and summary with optional recording.
 - **[Whisper Transcription MCP](https://github.com/arcaputo3/mcp-server-whisper)** - OpenAI Whisper audio transcription with timestamps, speaker templates, and text-to-speech. ⭐45
 
 ### Proposals & Marketplace
