@@ -52,12 +52,16 @@ Existing awesome lists organize skills by technical category. This one organizes
 
 ### KOL / Influencer Discovery
 
-- **[Apify MCP](https://github.com/apify/apify-mcp-server)** - Access thousands of ready-made scrapers for Instagram, TikTok, YouTube, and Facebook — extract influencer profiles, emails, and engagement data at scale. ⭐846
-- **[TikTok API](https://github.com/davidteather/TikTok-Api)** - Unofficial Python TikTok API — pull creator profiles, trending videos, follower counts, and engagement metrics for influencer discovery. ⭐6.1k
-- **[Influencer Search MCP](https://github.com/apo1397/mcp-server-influencer-search)** - Discover influencers via Modash API with natural language queries powered by Gemini AI.
+- **[TikTok API](https://github.com/davidteather/TikTok-Api)** - Free Python TikTok API — pull creator profiles, trending videos, follower counts, and engagement metrics for influencer discovery. ⭐6.1k
+- **[TikTok Scraper](https://github.com/drawrowfly/tiktok-scraper)** - Free Node.js TikTok scraper — user profiles, hashtags, trends, and music feeds with JSON/CSV export. ⭐5k
+- **[Instaloader](https://github.com/instaloader/instaloader)** - Free Instagram scraper — download profiles, posts, stories, and metadata for creator research. No API key needed. ⭐11.7k
+- **[instagrapi](https://github.com/subzeroid/instagrapi)** - Fast Python Instagram Private API — profiles, DMs, analytics, and uploads without Selenium. ⭐5.9k
 - **[Instagram Engagement MCP](https://github.com/Bob-lance/instagram-engagement-mcp)** - Track Instagram engagement, extract sentiment from comments, compare accounts, and identify leads from creator posts. ⭐41
 - **[YouTube MCP Server](https://github.com/ZubeidHendricks/youtube-mcp-server)** - Pull video details, transcripts, channel stats, and playlist data for YouTube creator research. ⭐452
-- **[Xpoz MCP](https://github.com/xpozpublic/xpoz-mcp)** - Search Twitter, Instagram, Reddit, and TikTok from AI agents — 1.5B+ indexed posts with CSV export up to 500K rows.
+- **[twscrape](https://github.com/vladkens/twscrape)** - Free Twitter/X GraphQL scraper — profiles, followers, tweets, and search results without paid API. ⭐2.3k
+- **[twikit](https://github.com/d60/twikit)** - Free Twitter/X API scraper — post, search, and pull trending topics without official API credentials. ⭐4.1k
+- **[facebook-scraper](https://github.com/kevinzg/facebook-scraper)** - Free Facebook page/profile/group scraper — no API key, no request limits. ⭐3.1k
+- **[snscrape](https://github.com/JustAnotherArchivist/snscrape)** - Free multi-platform scraper — Facebook, Instagram, Twitter, Reddit, Telegram profiles and posts. ⭐5.3k
 - **[KOL Sentiment MCP](https://github.com/olaxbt/kol-sentitment-mcp)** - KOL sentiment analysis via Masa AI — content search, sentiment evaluation, and multi-KOL trend comparison.
 
 ### Brand & Analytics
