@@ -1,12 +1,23 @@
-# Awesome OpenClaw Roles [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<div align="center">
 
-> A curated list of [OpenClaw](https://github.com/openclaw/openclaw) skills organized by professional role — find the right tools for how you actually work.
+# Awesome OpenClaw Roles
 
-Existing awesome lists organize skills by technical category. This one organizes by **who you are** and **what you need to get done** — so you can grab a role-ready toolkit in seconds.
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/serenakeyitan/awesome-openclaw-roles/pulls)
+[![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-**Legend:** 🇨🇳 = China-market specific &nbsp;·&nbsp; ⭐ = GitHub star count
+**A curated list of [OpenClaw](https://github.com/openclaw/openclaw) skills organized by professional role.**
+Find the right tools for how you actually work.
+
+[Marketing](#-marketing--growth) &nbsp;&bull;&nbsp; [Engineering](#️-engineering--dev) &nbsp;&bull;&nbsp; [Finance](#-finance--analytics) &nbsp;&bull;&nbsp; [Social Media](#-social-media--content) &nbsp;&bull;&nbsp; [Design](#-product--design) &nbsp;&bull;&nbsp; [Sales](#-sales--bd) &nbsp;&bull;&nbsp; [Operations](#-operations--admin) &nbsp;&bull;&nbsp; [Research](#-research--academic)
+
+</div>
 
 ---
+
+Most awesome lists organize skills by technical category. This one organizes by **who you are** and **what you need to get done** — each role section walks through a complete workflow from start to finish, so you can grab a role-ready toolkit in seconds.
+
+**Legend:** 🇨🇳 China-market specific &nbsp;&bull;&nbsp; ⭐ GitHub star count
 
 ## Contents
 
@@ -57,7 +68,6 @@ Launch, audit, and optimize paid campaigns across every major ad platform — th
 
 | Name <img width="250" height="1"> | Description <img width="700" height="1"> |
 |------|-------------|
-| [AdWhiz](https://clawhub.ai/wanng-ide/adwhiz) | Manage Google Ads and Meta campaigns with 99 MCP tools for bidding, targeting, and reporting. |
 | [Claude Ads](https://github.com/AgriciDaniel/claude-ads) | Comprehensive paid advertising audit with 190+ checks across Google, Meta, YouTube, LinkedIn, TikTok, and Microsoft Ads. ⭐607 |
 | [Ad Ready](https://github.com/openclaw/skills/tree/main/skills/pauldelavallaz/ad-ready/SKILL.md) | Generate professional advertising images from product URLs in seconds. |
 | [AB Test Setup](https://github.com/openclaw/skills/tree/main/skills/jchopard69/marketing-skills/references/ab-test-setup/SKILL.md) | Plan and configure A/B tests for landing pages, emails, and ad creatives. |
@@ -69,7 +79,6 @@ Build drip campaigns, manage subscriber lists, and automate lifecycle emails at 
 | Name <img width="250" height="1"> | Description <img width="700" height="1"> |
 |------|-------------|
 | [Resend MCP](https://github.com/resend/mcp-send-email) | Official Resend MCP for sending emails, managing contacts, broadcasts, and scheduling. ⭐454 |
-| [Brevo](https://github.com/openclaw/skills/tree/main/skills/yujesyoga/brevo/SKILL.md) | Brevo (Sendinblue) email marketing API for managing contacts, lists, and automated campaigns. |
 
 ### KOL & Influencer Discovery
 
@@ -120,7 +129,6 @@ Connect, query, migrate, and manage databases without leaving your AI assistant.
 |------|-------------|
 | [DBHub](https://github.com/bytebase/dbhub) | Zero-dependency, token-efficient database gateway for Postgres, MySQL, SQL Server, MariaDB, and SQLite. ⭐2.2k |
 | [Prisma MCP](https://github.com/prisma/mcp) | Official Prisma MCP for migrations, Prisma Postgres management, SQL execution, and schema introspection. ⭐39 |
-| [MCP Database Server](https://github.com/executeautomation/mcp-database-server) | Multi-database MCP supporting SQLite, SQL Server, PostgreSQL, and MySQL with AWS IAM auth. ⭐312 |
 
 ### Version Control & Code Review
 
@@ -166,7 +174,6 @@ Scan for vulnerabilities, audit skills before install, and orchestrate multi-age
 | Name <img width="250" height="1"> | Description <img width="700" height="1"> |
 |------|-------------|
 | [Heimdall](https://github.com/openclaw/skills/tree/main/skills/henrino3/heimdall/SKILL.md) | Pre-install security scanner for OpenClaw skills — detects credential theft and data exfiltration. |
-| [Agent Commons](https://github.com/openclaw/skills/tree/main/skills/zanblayde/agent-commons/SKILL.md) | Consult, commit, extend, and challenge shared reasoning chains across agent teams. |
 | [Agent Team Orchestration](https://clawhub.ai/ryancampbell/agent-team-orchestration) | Orchestrate multi-agent teams with roles, task lifecycles, and handoff protocols. |
 
 ### Localization & i18n
@@ -211,7 +218,6 @@ Pull real-time quotes, run technical analysis, score stocks, and track portfolio
 |------|-------------|
 | [Financial Modeling Prep MCP](https://github.com/imbenrabi/Financial-Modeling-Prep-MCP-Server) | 253+ financial tools — real-time quotes, technical indicators, analyst estimates, and ESG scores. Free tier: 250 calls/day. ⭐122 |
 | [Stock Market Pro](https://clawhub.ai/kys42/stock-market-pro) | Yahoo Finance powered stock analysis with quotes, fundamentals, ASCII trends, and high-resolution charts. |
-| [Stock Analysis](https://clawhub.ai/udiedrichsen/stock-analysis) | Analyze stocks and crypto — portfolio management, watchlists, dividend analysis, and 8-dimension scoring. |
 | [PolyClaw](https://github.com/chainstacklabs/polyclaw) | Trading-enabled Polymarket skill — browse prediction markets, execute on-chain trades, and discover hedging opportunities. ⭐158 |
 
 ### Dashboards & Reporting
@@ -226,7 +232,7 @@ Generate daily reports, track KPIs, monitor store metrics, and automate product 
 
 ### Budgeting & Payments
 
-Manage budgets, process payments, handle invoicing, and track financial data from central banks.
+Manage budgets, process payments, and handle invoicing.
 
 | Name <img width="250" height="1"> | Description <img width="700" height="1"> |
 |------|-------------|
@@ -260,7 +266,6 @@ View feeds, publish media, pull insights, and manage DMs.
 
 | Name <img width="250" height="1"> | Description <img width="700" height="1"> |
 |------|-------------|
-| [Gram](https://clawhub.ai/arein/gram) | Instagram CLI for viewing feeds, posts, profiles, and engagement via cookies. |
 | [Instagram MCP](https://github.com/jlbadano/ig-mcp) | Publish media, view post insights, manage DMs, and pull profile analytics. ⭐56 |
 
 ### TikTok
@@ -304,7 +309,6 @@ Generate images, edit video programmatically, build animated content, and transc
 | Name <img width="250" height="1"> | Description <img width="700" height="1"> |
 |------|-------------|
 | [Gemini Image Gen](https://clawhub.ai/steipete/nano-banana-pro) | Generate and edit images with Google Gemini 3 Pro at 1K-4K resolution for social media visuals. |
-| [OpenAI Image Gen](https://clawhub.ai/steipete/openai-image-gen) | Batch image generation via OpenAI Images API for thumbnails, banners, and post graphics. |
 | [Remotion Best Practices](https://github.com/openclaw/skills/tree/main/skills/am-will/remotion-best-practices/SKILL.md) | Build programmatic videos with React using [Remotion](https://github.com/remotion-dev/remotion). ⭐38.5k |
 | [Canva](https://github.com/openclaw/skills/tree/main/skills/abgohel/canva/SKILL.md) | Design and export branded social media graphics, stories, and ad creatives via Canva's API. |
 | [Aliyun ASR](https://github.com/openclaw/skills/tree/main/skills/jixsonwang/aliyun-asr/SKILL.md) 🇨🇳 | Transcribe voice messages via Aliyun ASR for subtitles and content repurposing. |
@@ -392,8 +396,6 @@ Keep your pipeline moving — manage contacts, track deals, and automate CRM wor
 |------|-------------|
 | [HubSpot MCP](https://github.com/peakmojo/mcp-hubspot) | AI-powered HubSpot CRM with vector storage, caching, contact/company management, and activity tracking. ⭐116 |
 | [Salesforce MCP](https://github.com/tsmztech/mcp-server-salesforce) | Natural language Salesforce integration — SOQL/SOSL queries, object management, and Apex code execution. ⭐129 |
-| [Attio Enhanced](https://github.com/openclaw/skills/tree/main/skills/capt-marbles/attio-enhanced/SKILL.md) | Enhanced Attio CRM API skill with batch operations for pipeline management. |
-| [AgenticCreed Lead](https://github.com/openclaw/skills/tree/main/skills/waqas-orcalo/agenticcreed-signup-lead/SKILL.md) | Capture and create signup leads in CRM systems via HTTP endpoints. |
 
 ### Outreach & Email Sequences
 
@@ -431,7 +433,6 @@ Automate fan platform management, schedule content, and optimize subscriber reve
 | Name <img width="250" height="1"> | Description <img width="700" height="1"> |
 |------|-------------|
 | [BottyFans](https://clawhub.ai/cartoonitunes/bottyfans) | Autonomous creator monetization agent for managing fan platforms and revenue. |
-| [Fanvue](https://clawhub.ai/cartoonitunes/fanvue) | Creator platform management — automate content scheduling and subscriber engagement. |
 
 ## 🏢 Operations / Admin
 
@@ -446,7 +447,6 @@ Triage inboxes, send and receive across providers, and manage team chat — all 
 | [GOG](https://clawhub.ai/steipete/gog) | Google Workspace CLI for Gmail, Calendar, Drive, Contacts, Sheets, and Docs. |
 | [Apple Mail Search](https://github.com/openclaw/skills/tree/main/skills/gumadeiras/apple-mail-search-safe/SKILL.md) | Fast and safe Apple Mail search with full body content access. |
 | [IMAP/SMTP Email](https://clawhub.ai/gzlicanyi/imap-smtp-email) | Send and receive emails via IMAP and SMTP with plain text, HTML, and file attachments. |
-| [AgentMail](https://github.com/openclaw/skills/tree/main/skills/rimelucci/agent-mail/SKILL.md) | Programmable email inbox for AI agents with webhooks and automation rules. |
 | [Slack](https://clawhub.ai/steipete/slack) | Control Slack from OpenClaw — message, react, pin, and fetch info across channels. |
 
 ### Calendar & Scheduling
@@ -550,7 +550,7 @@ Stay current — aggregate tech news, triage RSS feeds, and surface what matters
 
 ### Experiment Tracking
 
-Log runs, manage GPU instances, build visual pipelines, and analyze results with natural language.
+Log experiment runs and analyze results with natural language.
 
 | Name <img width="250" height="1"> | Description <img width="700" height="1"> |
 |------|-------------|
@@ -558,22 +558,26 @@ Log runs, manage GPU instances, build visual pipelines, and analyze results with
 
 ---
 
+<p align="right"><a href="#awesome-openclaw-roles">back to top</a></p>
+
 ## Contributing
 
-Contributions welcome! Please read the guidelines before submitting:
+Contributions welcome! Please read the guidelines before submitting a PR:
 
 1. **One skill per PR** — makes review easier.
-2. **Format:** Use the table format — `| [Skill Name](link) | One-line description ending with a period. |`
-3. **Role assignment** — put the skill under its **primary** role and use case.
+2. **Format** — use the table format: `| [Name](link) | One-line description. |`
+3. **Role assignment** — place the skill under its **primary** role and use case.
 4. **China-market skills** — add 🇨🇳 after the skill name.
-5. **Quality bar** — skill should be functional, documented, and ideally used by real people.
-6. **Links** — must point to a working ClawHub page, GitHub repo, or official skill file.
+5. **Quality bar** — skill must be functional, documented, and ideally used by real people.
+6. **No duplicates** — if a similar tool already exists in the section, only add yours if it has more stars or clearly different functionality.
 
 ## Related Lists
 
-- **[VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)** - 5,400+ skills organized by technical category.
-- **[hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases)** - Real-world use cases and workflow recipes.
-- **[ClawHub Registry](https://clawhub.ai/skills?sort=downloads)** - Official skill registry with 13,700+ community-built skills.
+| List | Description |
+|------|-------------|
+| [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) | 5,400+ skills organized by technical category. |
+| [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) | Real-world use cases and workflow recipes. |
+| [ClawHub Registry](https://clawhub.ai/skills?sort=downloads) | Official skill registry with 13,700+ community-built skills. |
 
 ## License
 
