@@ -76,17 +76,50 @@ Existing awesome lists organize skills by technical category. This one organizes
 
 ## 📱 Social Media / Content
 
-*Create, schedule, and manage social media content across every major platform.*
+*Automate every major social platform — scripting, video/image production, posting, scheduling, and analytics.*
 
-- **[Auto-Redbook Skills](https://github.com/comeonzhj/Auto-Redbook-Skills)** 🇨🇳 - Auto-write Xiaohongshu posts, generate multi-themed cards, and auto-publish. ⭐803
-- **[Xiaohongshu MCP](https://github.com/xpzouying/xiaohongshu-mcp)** 🇨🇳 - MCP server for Xiaohongshu — publish content, search, manage comments, and automate engagement. ⭐9.9k
-- **[Bird](https://clawhub.ai/steipete/bird)** - X/Twitter CLI for reading, searching, and posting via cookies or API.
-- **[Bluesky](https://github.com/openclaw/skills/tree/main/skills/jeffaf/bluesky/SKILL.md)** - Complete Bluesky CLI — post, reply, like, repost, follow, block, mute, and search.
-- **[Remotion Best Practices](https://github.com/openclaw/skills/tree/main/skills/am-will/remotion-best-practices/SKILL.md)** - Guidelines and patterns for building programmatic video with [Remotion](https://github.com/remotion-dev/remotion). ⭐38.5k
+### Cross-Platform
+
+- **[Postiz](https://clawhub.ai/nevo-david/postiz)** - Schedule and publish to 28+ channels — X, Instagram, TikTok, YouTube, LinkedIn, Threads, Facebook, Reddit, and more. ⭐27k
+- **[Upload-Post API](https://clawhub.ai/victorcavero14/upload-post)** - Multi-platform upload with scheduling and analytics for TikTok, Instagram, YouTube, X, LinkedIn, Facebook, Threads, and Pinterest.
+
+### Twitter / X
+
+- **[Bird](https://clawhub.ai/steipete/bird)** - X/Twitter CLI for reading, searching, posting, and timeline management via cookies or API.
+- **[OpenTwitter MCP](https://github.com/6551Team/opentwitter-mcp)** - User profiles, tweet search, follower events, and KOL tracking with 8 tools via FastMCP. ⭐351
+
+### Instagram
+
+- **[Gram](https://clawhub.ai/arein/gram)** - Instagram CLI for viewing feeds, posts, profiles, and engagement via cookies.
+- **[Instagram MCP](https://github.com/jlbadano/ig-mcp)** - Publish media, view post insights, manage DMs, and pull profile analytics. ⭐56
+
+### TikTok
+
+- **[Larry](https://clawhub.ai/OllieWazza/larry)** - TikTok slideshow marketing — research competitors, generate AI images, add text overlays, post via Postiz, and track analytics.
+- **[TikTok MCP](https://github.com/Seym0n/tiktok-mcp)** - Get subtitles, post details, and video search via TikNeuron API. ⭐57
+
+### YouTube
+
+- **[YouTube Factory](https://clawhub.ai/Mayank8290/youtube-factory)** - Generate complete YouTube videos from a single prompt — script, voiceover, stock footage, captions, and thumbnail.
+- **[YouTube API](https://clawhub.ai/byungkyu/youtube-api-skill)** - Search videos, manage playlists, pull channel data, and moderate comments via YouTube Data API with managed OAuth.
+- **[Video Transcript Downloader](https://clawhub.ai/steipete/video-transcript-downloader)** - Download videos, audio, subtitles, and transcripts via yt-dlp for repurposing.
 - **[yt-dlp](https://github.com/yt-dlp/yt-dlp)** - Download video and audio from YouTube and 1000+ sites — the backbone of content pipelines. ⭐149k
-- **[Gemini Image Gen](https://clawhub.ai/steipete/nano-banana-pro)** - Generate and edit images with Google Gemini 3 Pro for social media visuals.
+
+### Xiaohongshu 🇨🇳
+
+- **[Xiaohongshu MCP](https://github.com/xpzouying/xiaohongshu-mcp)** 🇨🇳 - MCP server for Xiaohongshu — publish content, search, manage comments, and automate engagement. ⭐9.9k
+- **[Auto-Redbook Skills](https://github.com/comeonzhj/Auto-Redbook-Skills)** 🇨🇳 - Auto-write Xiaohongshu posts, generate multi-themed cards, and auto-publish. ⭐803
+
+### Other Platforms
+
+- **[Bluesky](https://github.com/openclaw/skills/tree/main/skills/jeffaf/bluesky/SKILL.md)** - Complete Bluesky CLI — post, reply, like, repost, follow, block, mute, and search.
+
+### Content Production
+
+- **[Gemini Image Gen](https://clawhub.ai/steipete/nano-banana-pro)** - Generate and edit images with Google Gemini 3 Pro at 1K–4K resolution for social media visuals.
+- **[OpenAI Image Gen](https://clawhub.ai/steipete/openai-image-gen)** - Batch image generation via OpenAI Images API for thumbnails, banners, and post graphics.
+- **[Remotion Best Practices](https://github.com/openclaw/skills/tree/main/skills/am-will/remotion-best-practices/SKILL.md)** - Build programmatic videos with React using [Remotion](https://github.com/remotion-dev/remotion). ⭐38.5k
 - **[Canva](https://github.com/openclaw/skills/tree/main/skills/abgohel/canva/SKILL.md)** - Design and export branded social media graphics, stories, and ad creatives via Canva's API.
-- **[Design Assets](https://github.com/openclaw/skills/tree/main/skills/cmanfre7/design-assets/SKILL.md)** - Generate thumbnails, cover images, and social media graphics on demand.
 - **[Aliyun ASR](https://github.com/openclaw/skills/tree/main/skills/jixsonwang/aliyun-asr/SKILL.md)** 🇨🇳 - Transcribe voice messages via Aliyun ASR for subtitles and content repurposing.
 
 ## 🎨 Product / Design
