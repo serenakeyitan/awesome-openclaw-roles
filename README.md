@@ -23,7 +23,7 @@ Existing awesome lists organize skills by technical category. This one organizes
 
 ## 🎯 Marketing / Growth
 
-*Your workflow: Research keywords and competitors → write SEO content → build landing pages → launch ad campaigns → set up email sequences → track analytics and A/B test → iterate.*
+*Your workflow: Research keywords and competitors → write SEO content → build landing pages → launch ad campaigns → discover and recruit KOLs/influencers → set up email sequences → track analytics and A/B test → iterate.*
 
 ### Keyword Research & SEO
 
@@ -49,6 +49,16 @@ Existing awesome lists organize skills by technical category. This one organizes
 - **[Resend MCP](https://github.com/resend/mcp-send-email)** - Official Resend MCP for sending emails, managing contacts, broadcasts, and scheduling. ⭐454
 - **[Brevo](https://github.com/openclaw/skills/tree/main/skills/yujesyoga/brevo/SKILL.md)** - Brevo (Sendinblue) email marketing API for managing contacts, lists, and automated campaigns.
 - **[B2C Marketing](https://github.com/openclaw/skills/tree/main/skills/jackfriks/b2c-marketing/SKILL.md)** - The organic growth playbook behind 300K+ app downloads — short-form video, ASO, and virality loops.
+
+### KOL / Influencer Discovery
+
+- **[Apify MCP](https://github.com/apify/apify-mcp-server)** - Access thousands of ready-made scrapers for Instagram, TikTok, YouTube, and Facebook — extract influencer profiles, emails, and engagement data at scale. ⭐846
+- **[TikTok API](https://github.com/davidteather/TikTok-Api)** - Unofficial Python TikTok API — pull creator profiles, trending videos, follower counts, and engagement metrics for influencer discovery. ⭐6.1k
+- **[Influencer Search MCP](https://github.com/apo1397/mcp-server-influencer-search)** - Discover influencers via Modash API with natural language queries powered by Gemini AI.
+- **[Instagram Engagement MCP](https://github.com/Bob-lance/instagram-engagement-mcp)** - Track Instagram engagement, extract sentiment from comments, compare accounts, and identify leads from creator posts. ⭐41
+- **[YouTube MCP Server](https://github.com/ZubeidHendricks/youtube-mcp-server)** - Pull video details, transcripts, channel stats, and playlist data for YouTube creator research. ⭐452
+- **[Xpoz MCP](https://github.com/xpozpublic/xpoz-mcp)** - Search Twitter, Instagram, Reddit, and TikTok from AI agents — 1.5B+ indexed posts with CSV export up to 500K rows.
+- **[KOL Sentiment MCP](https://github.com/olaxbt/kol-sentitment-mcp)** - KOL sentiment analysis via Masa AI — content search, sentiment evaluation, and multi-KOL trend comparison.
 
 ### Brand & Analytics
 
