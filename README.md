@@ -32,7 +32,6 @@ Understand your market before spending a dollar — pull competitor data, monito
 | Name | Description |
 |------|-------------|
 | [Claude SEO](https://github.com/AgriciDaniel/claude-seo) | Comprehensive SEO analysis with keyword research, technical audits, Core Web Vitals, E-E-A-T evaluation, and competitor analysis. ⭐1.5k |
-| [RivalSearchMCP](https://github.com/damionrashford/RivalSearchMCP) | Deep competitor analysis with web search, social media (Reddit/HN), trends, and OCR — no API keys required. ⭐49 |
 | [Tavily](https://clawhub.ai/bert-builder/tavily) | AI-optimized web search with clean structured results, answer generation, and source extraction. |
 
 ### SEO Content & Blogging
@@ -42,7 +41,6 @@ Write content that ranks — generate SEO-optimized articles, manage blog platfo
 | Name | Description |
 |------|-------------|
 | [Blog Writer](https://github.com/openclaw/skills/tree/main/skills/tomstools11/blog-writer/SKILL.md) | Write SEO-optimized blog posts and articles with structured outlines and keyword targeting. |
-| [BearBlog](https://github.com/openclaw/skills/tree/main/skills/azade-c/bearblog/SKILL.md) | Create and manage blog posts on Bear Blog for lightweight content publishing. |
 
 ### Landing Pages & Web Presence
 
@@ -223,7 +221,6 @@ Generate daily reports, track KPIs, monitor store metrics, and automate product 
 |------|-------------|
 | [Daily Report](https://github.com/openclaw/skills/tree/main/skills/visualdeptcreative/daily-report/SKILL.md) | Track progress, report KPIs, and generate daily business metric summaries. |
 | [Amplitude Automation](https://github.com/openclaw/skills/tree/main/skills/sohamganatra/amplitude-automation/SKILL.md) | Automate Amplitude product analytics — event tracking, funnels, and cohort reports. |
-| [Clawver Store Analytics](https://github.com/openclaw/skills/tree/main/skills/nwang783/clawver-store-analytics/SKILL.md) | Monitor store performance metrics, revenue trends, and conversion rates. |
 | [GOG](https://clawhub.ai/steipete/gog) | Google Workspace CLI for Gmail, Calendar, Drive, Contacts, Sheets, and Docs. |
 
 ### Budgeting & Payments
@@ -234,8 +231,6 @@ Manage budgets, process payments, handle invoicing, and track financial data fro
 |------|-------------|
 | [Actual Budget](https://clawhub.ai/ThisIsJeron/actual-budget) | Manage personal finances via Actual Budget API — budgets, transactions, accounts, rules, and bank sync. |
 | [Stripe MCP](https://docs.stripe.com/mcp) | Official Stripe MCP with 30+ tools for customers, payment intents, invoicing, subscriptions, and disputes. |
-| [BOJ Statistics](https://clawhub.ai/boj-mcp/boj-statistics) | Access Bank of Japan statistical data — price indices, monetary base, and flow of funds. |
-| [CEORater](https://github.com/openclaw/skills/tree/main/skills/ceorater-skills/ceorater/SKILL.md) | Institutional-grade CEO performance analytics for S&P 500 companies. |
 
 ## 📱 Social Media / Content
 
@@ -248,7 +243,6 @@ Publish once, distribute everywhere — schedule posts across 28+ channels from 
 | Name | Description |
 |------|-------------|
 | [Postiz](https://clawhub.ai/nevo-david/postiz) | Schedule and publish to 28+ channels — X, Instagram, TikTok, YouTube, LinkedIn, Threads, Facebook, Reddit, and more. ⭐27k |
-| [Upload-Post API](https://clawhub.ai/victorcavero14/upload-post) | Multi-platform upload with scheduling and analytics for TikTok, Instagram, YouTube, X, LinkedIn, Facebook, Threads, and Pinterest. |
 
 ### Twitter / X
 
@@ -285,7 +279,6 @@ Generate full videos, manage channels, download transcripts, and pull content fr
 |------|-------------|
 | [YouTube Factory](https://clawhub.ai/Mayank8290/youtube-factory) | Generate complete YouTube videos from a single prompt — script, voiceover, stock footage, captions, and thumbnail. |
 | [YouTube API](https://clawhub.ai/byungkyu/youtube-api-skill) | Search videos, manage playlists, pull channel data, and moderate comments via YouTube Data API with managed OAuth. |
-| [Video Transcript Downloader](https://clawhub.ai/steipete/video-transcript-downloader) | Download videos, audio, subtitles, and transcripts via yt-dlp for repurposing. |
 | [yt-dlp](https://github.com/yt-dlp/yt-dlp) | Download video and audio from YouTube and 1000+ sites — the backbone of content pipelines. ⭐149k |
 
 ### Xiaohongshu 🇨🇳
@@ -375,14 +368,6 @@ Maintain tokens, component docs, and visual assets — keep every screen consist
 | [UI Design System](https://clawhub.ai/wanng-ide/ui-design-system) | Design tokens, component documentation, and system-wide consistency guidance. |
 | [Design Assets](https://github.com/openclaw/skills/tree/main/skills/cmanfre7/design-assets/SKILL.md) | Create and edit graphic design assets — icons, favicons, and social media images. |
 
-### Design-to-Code Handoff
-
-Turn designs into production code and generate structured documents from design specs.
-
-| Name | Description |
-|------|-------------|
-| [Resume Builder](https://clawhub.ai/wanng-ide/resume-builder) | Generate professional, ATS-optimized resumes and CVs from structured input. |
-
 ## 🤝 Sales / BD
 
 *Your workflow: Research prospects and enrich lead data → craft personalized outreach → manage CRM pipeline → book meetings and calls → generate proposals → close deals → track attribution and manage partnerships.*
@@ -462,7 +447,6 @@ Triage inboxes, send and receive across providers, and manage team chat — all 
 | [IMAP/SMTP Email](https://clawhub.ai/gzlicanyi/imap-smtp-email) | Send and receive emails via IMAP and SMTP with plain text, HTML, and file attachments. |
 | [AgentMail](https://github.com/openclaw/skills/tree/main/skills/rimelucci/agent-mail/SKILL.md) | Programmable email inbox for AI agents with webhooks and automation rules. |
 | [Slack](https://clawhub.ai/steipete/slack) | Control Slack from OpenClaw — message, react, pin, and fetch info across channels. |
-| [Beeper](https://clawhub.ai/krausefx/beeper) | Search and browse local Beeper chat history across all your messaging platforms. |
 
 ### Calendar & Scheduling
 
@@ -505,12 +489,11 @@ Track issues, manage sprints, coordinate across Jira/Linear/Basecamp, and keep e
 
 ### Notifications & Utilities
 
-Push alerts to your phone, bundle complex prompts, and automate the small stuff that adds up.
+Push alerts to your phone and automate the small stuff that adds up.
 
 | Name | Description |
 |------|-------------|
 | [Pocket Alert](https://clawhub.ai/Akellacom/pocketalert) | Push notifications from OpenClaw directly to your iOS or Android phone. |
-| [Oracle CLI](https://github.com/steipete/oracle) | Bundle prompts and files into high-context packages for complex operational tasks. |
 
 ## 🔬 Research / Academic
 
@@ -571,8 +554,6 @@ Log runs, manage GPU instances, build visual pipelines, and analyze results with
 | Name | Description |
 |------|-------------|
 | [W&B MCP](https://github.com/wandb/wandb-mcp-server) | Official Weights & Biases MCP — query and analyze experiment data using natural language. ⭐36 |
-| [ComfyUI Runner](https://clawhub.ai/wanng-ide/comfyui-runner) | Start, stop, and manage ComfyUI instances for local AI image generation experiments. |
-| [Nodetool](https://clawhub.ai/wanng-ide/nodetool) | Visual AI workflow builder — ComfyUI + n8n-style node graphs for research pipelines. |
 
 ---
 
