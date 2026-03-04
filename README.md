@@ -1,6 +1,7 @@
 <div align="center">
 
 # Awesome OpenClaw Roles
+<img width="3477" height="1528" alt="openclaw-role-banner" src="https://github.com/user-attachments/assets/3fe7caf6-b7f5-4e2f-a77e-ed265b9fe619" />
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/serenakeyitan/awesome-openclaw-roles/pulls)
