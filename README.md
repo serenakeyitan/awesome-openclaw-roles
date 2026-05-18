@@ -261,6 +261,7 @@ Read timelines, search tweets, post threads, and track follower events.
 |------|-------------|
 | [Bird](https://clawhub.ai/steipete/bird) | X/Twitter CLI for reading, searching, posting, and timeline management via cookies or API. |
 | [OpenTwitter MCP](https://github.com/6551Team/opentwitter-mcp) | User profiles, tweet search, follower events, and KOL tracking with 8 tools via FastMCP. ⭐351 |
+| [TweetClaw](https://github.com/Xquik-dev/tweetclaw) | OpenClaw plugin for search tweets, search tweet replies, post tweets or replies, follower export, user lookup, media upload/download, direct messages, monitors, webhooks, and giveaway draws via Xquik. ⭐39 |
 
 ### Instagram
 
